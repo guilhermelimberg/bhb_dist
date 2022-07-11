@@ -1,0 +1,27 @@
+objid		: object ID SDSS
+ra		: right ascension SDSS (deg)
+dec		: declination SDSS (deg)
+l		: Galactic longitude SDSS (deg)
+b		: Galactic latitude SDSS (deg)
+gr		: (g-r) color SDSS
+ug		: (u-g) color SDSS
+teff_adop	: Teff ADOP SEGUE (K)
+teff_adop_unc	: Teff ADOP uncertainty SEGUE (K)
+logg_adop	: logg ADOP SEGUE
+logg_adop_unc	: logg ADOP uncertainty SEGUE
+logg_annrr	: logg ANNRR uncertainty SEGUE
+logg_annrr_unc	: logg ANNRR uncertainty SEGUE
+logg_spec	: logg SPEC uncertainty SEGUE
+logg_spec_unc	: logg SPEC uncertainty SEGUE
+rv_adop	: radial velocity SEGUE (km s-1)
+rv_adop_unc	: radial velocity uncertainty SEGUE (km s-1)
+abs_mag_gr	: absolute magnitude in the g band from (g-r) calibration
+abs_mag_gr_unc	: absolute magnitude in the g band from (g-r) calibration uncertainty
+abs_mag_ug	: absolute magnitude in the g band from (u-g) calibration
+abs_mag_ug_unc	: absolute magnitude in the g band from (u-g) calibration uncertainty
+dist_gr	: heliocentric distance from (g-r) calibration (pc)
+dist_gr_unc	: heliocentric distance from (g-r) calibration uncertainty (pc)
+dist_ug	: heliocentric distance from (u-g) calibration (pc)
+dist_ug_unc	: heliocentric distance from (u-g) calibration uncertainty (pc)
+probability	: probability of being BHB 
+
