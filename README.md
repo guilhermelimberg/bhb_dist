@@ -8,5 +8,5 @@ We also provide a secondary file ("bhb_final_pm_OrbParam.csv") with the same inf
 
 The "XXX_desc.txt" files provide the descriptions for the quantities in each column of each file.  
 
-Please acknowledge and contact either guilherme.limberg@usp.br or fabriciaob@usp.br for any questions.
+Please acknowledge and contact either guilherme.limberg (at) usp.br or fabriciaob (at) usp.br for any questions.
 
