@@ -5,6 +5,7 @@ l		: Galactic longitude SDSS (deg)
 b		: Galactic latitude SDSS (deg)
 gr		: (g-r) color SDSS
 ug		: (u-g) color SDSS
+ur		: (u-r) color SDSS
 teff_adop	: Teff ADOP SEGUE (K)
 teff_adop_unc	: Teff ADOP uncertainty SEGUE (K)
 logg_adop	: logg ADOP SEGUE
@@ -17,11 +18,11 @@ rv_adop	: radial velocity SEGUE (km s-1)
 rv_adop_unc	: radial velocity uncertainty SEGUE (km s-1)
 abs_mag_gr	: absolute magnitude in the g band from (g-r) calibration
 abs_mag_gr_unc	: absolute magnitude in the g band from (g-r) calibration uncertainty
-abs_mag_ug	: absolute magnitude in the g band from (u-g) calibration
-abs_mag_ug_unc	: absolute magnitude in the g band from (u-g) calibration uncertainty
+abs_mag_ur	: absolute magnitude in the g band from (u-r) calibration
+abs_mag_ur_unc	: absolute magnitude in the g band from (u-r) calibration uncertainty
 dist_gr	: heliocentric distance from (g-r) calibration (pc)
 dist_gr_unc	: heliocentric distance from (g-r) calibration uncertainty (pc)
-dist_ug	: heliocentric distance from (u-g) calibration (pc)
-dist_ug_unc	: heliocentric distance from (u-g) calibration uncertainty (pc)
+dist_ur	: heliocentric distance from (u-r) calibration (pc)
+dist_ur_unc	: heliocentric distance from (u-r) calibration uncertainty (pc)
 probability	: probability of being BHB 
 
