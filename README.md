@@ -6,6 +6,6 @@ The main file ("bhb_final.csv") provides all photometric information of interest
 
 The "XXX_desc.txt" file provides the descriptions for the quantities in each column of each file.  
 
-Please acknowledge and contact either guilherme.limberg(at)usp.br or fabriciaob(at)usp.br for any questions.
+Please acknowledge and contact either Guilherme Limberg -- guilherme.limberg(at)usp.br -- or Fabrícia Barbosa -- fabriciaob(at)usp.br -- for any questions.
 
 The paper that describes the construction of this catalog is published as [Barbosa et al. (2022)](https://iopscience.iop.org/article/10.3847/1538-4357/ac983f) -- Open Access. You can find the proper citation at [NASA/ADS](https://ui.adsabs.harvard.edu/abs/2022arXiv221002820B/abstract). Also, you can check the [arXiv](https://arxiv.org/abs/2210.02820) version.
