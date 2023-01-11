@@ -10,9 +10,9 @@ teff_adop	: Teff ADOP SEGUE (K)
 teff_adop_unc	: Teff ADOP uncertainty SEGUE (K)
 logg_adop	: logg ADOP SEGUE
 logg_adop_unc	: logg ADOP uncertainty SEGUE
-logg_annrr	: logg ANNRR uncertainty SEGUE
+logg_annrr	: logg ANNRR SEGUE
 logg_annrr_unc	: logg ANNRR uncertainty SEGUE
-logg_spec	: logg SPEC uncertainty SEGUE
+logg_spec	: logg SPEC SEGUE
 logg_spec_unc	: logg SPEC uncertainty SEGUE
 rv_adop	: radial velocity SEGUE (km s-1)
 rv_adop_unc	: radial velocity uncertainty SEGUE (km s-1)
